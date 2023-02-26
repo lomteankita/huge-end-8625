@@ -1,6 +1,7 @@
 import AllRoutes from './Components/AllRoutes';
 import './App.css';
 import Navbar from './Components/Navbar';
+import Footer from './Pages/Footer';
 
 function App() {
   return (
@@ -14,6 +15,15 @@ function App() {
 
       
 
+
+
+
+
+
+
+
+      <br />
+      <Footer />
     </div>
   );
 }
